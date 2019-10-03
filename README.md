@@ -1,45 +1,12 @@
-# 學號:0624076 姓名:賴炳維
 
-## test
+* **學號0624076 姓名:賴炳維:smile:**
+* 學號0624032 姓名:黃偉傑 :smile:
+* 學號0624058 姓名:陳宗順 :smile:
+* 學號0624098 姓名:江維欣 :smile:
 
-### test
-
-#### test
-
-##### test
-:heart:
-:smile:
-:heart_eyes:
-
-`高雄第一科技大學`
-
-```
-請同學留下你的學號 與 對應的 github 網址
-```
-
-> 新北市
->> 板橋區
-* red
-* blue
-* green
-
-***
-[高雄科技大學](https://www.nkust.edu.tw/)
-
-**粗體**
-*斜體*
-~~刪除線~~
-
-| first | socend | third |
-| :---- | :----: | ----: |
-| 1 | 2 | 3 |
-
-```ruby
-def index
-  puts "hello world"
-end
-``` 
-
-![wana.jpg](unnamed.jpg)
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+### 1. 智慧復健AR系統
+### 2. 文字敘述專題需求:
+   `透過AR的系統輔助下，讓復健病患能夠更具有意願從事復健項目。`
+### 3. 寫出專題之功能性需求與非功能性需求
+    (1) 功能性 `AR頭戴式設備、體感輔助式手杖`
+    (2) 非功能性 `病人病歷隱私、遵循保險業標準`
