@@ -59,9 +59,9 @@
 
 ![relation](doc2.jpg "循序圖")
 
-#### 總循序圖
+<!--#### 總循序圖
 
-![relation](pic1234.jpg "循序圖")
+![relation](pic1234.jpg "循序圖")-->
 
 ### 9. 強韌圖
 
